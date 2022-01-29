@@ -7,6 +7,8 @@ title: The Last Dollar - Design Guidelines
 ## Design Guidelines
 
 
+Source Figma available here: [The Last Dollar - Design Guidelines](https://www.figma.com/file/DUOAtD8A2SRV90paz4eiDI/The-Last-Dollar---Design-Guidelines)
+
 
 ![Cover](./design-guidelines/01-cover.png)
 
