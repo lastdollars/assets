@@ -1,10 +1,13 @@
+---
+title: "The Last Dollar - Assets"
+---
 ## Welcome to The Last Dollar Assets
 
 Please download the assets you need from this site.
 
-The contents of this file and website are copyrighted by The Last Dollar - 2022
+The contents of this file and website are copyrighted by [The Last Dollar](https://lastdollar.io) - 2022
 
-Visit us: https://lastdollar.io
+Visit us: [lastdollar.io](https://lastdollar.io)
 
 ### Dollar Template
 #### Front
