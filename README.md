@@ -1,1 +1,1 @@
-see: [index.md](./index.md)
+see: [index.md](./index.md) or [lastdollars.github.io/assets/](https://lastdollars.github.io/assets/)
