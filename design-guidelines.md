@@ -34,3 +34,12 @@ Assets for artists: [assets.lastdollar.io](assets.lastdollar.io)
 
 ![Ship](./design-guidelines/11-ship.png)
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QH94CSLQ5F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QH94CSLQ5F');
+</script>
