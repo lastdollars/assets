@@ -9,6 +9,8 @@ title: The Last Dollar - Design Guidelines
 
 Source Figma available here: [The Last Dollar - Design Guidelines](https://www.figma.com/file/DUOAtD8A2SRV90paz4eiDI/The-Last-Dollar---Design-Guidelines)
 
+Assets for artists: [assets.lastdollar.io](assets.lastdollar.io)
+
 
 ![Cover](./design-guidelines/01-cover.png)
 

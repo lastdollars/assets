@@ -11,6 +11,7 @@ Visit us: [lastdollar.io](https://lastdollar.io)
 
 Source Figma available here: [The Last Dollar - Design Guidelines](https://www.figma.com/file/DUOAtD8A2SRV90paz4eiDI/The-Last-Dollar---Design-Guidelines)
 
+Design guidelines: [Design Guidelines](/design-guidelines)
 ### Dollar Template
 #### Front
 
